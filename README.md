@@ -3,7 +3,6 @@
 This class surveys the emerging landscape of computational advertising. It provides students with a thorough understanding of the technologies including web-search, auctions, behavioral targeting, mechanisms for viral marketing, that underpin the display of advertisements on a variety of locations. These locations include web pages (banner ads), on prominent search engines (text ads), on social media platforms, as well as cell phones. The students shall also learn about emerging areas in computational advertising including electronic billboards, moving objects (banners atop taxi cabs) and algorithmic synthesis of personalized advertisements. Discussion around privacy is a significant focus of the class. 
 
 # Mp1 Implement the HITS algorithm
-**In this question, you are required to implement the HITS algorithm with a supported programming language of your choice. You must follow the initialization, normalization and iteration procedure specified in this reference (refer to page 403). You can use the sample test cases to debug your code, however the final test case is significantly larger and hence may require an efficient implementation. You must keep this in mind when you make your submission.**
 
 Input Format
 
@@ -71,7 +70,7 @@ Sample Output 1
 10897,21443,38976
 
 # Mp2 Implement SimRank and SimRank with evidence
-**In this question, you are required to implement the SimRank algorithm and SimRank with 2 forms of evidence weights with a supported programming language of your choice. In each case, your iterations must begin with user updates, alternating with ad similarity updates. We will use this reference for the algorithm details. You can use the sample test case to debug your code, however the final test case is significantly larger and hence may require an efficient implementation. You must keep this in mind when you make your submission. You should use partial sum sharing to speed up your implementation.**
+**In this question, you are required to implement the SimRank algorithm and SimRank with 2 forms of evidence weights with a supported programming language of your choice. In each case, your iterations must begin with user updates, alternating with ad similarity updates. We will use this reference for the algorithm details. You can use the sample test case to debug your code, however the final test case is significantly larger and hence may require an efficient implementation. You should use partial sum sharing to speed up your implementation.**
 
 Input Format
 
